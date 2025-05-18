@@ -44,6 +44,13 @@ Run the cells to visualize and explore your data!
 ----
 
 📸 Screenshots
+
+1st spotify_data_dictionary.ipynb
 ![Screenshot from 2025-05-18 12-42-11](https://github.com/user-attachments/assets/cfede8f6-6cbb-441e-955d-b7b38ff60b13)
+
+
+2nd spotify_history.ipynb
+
+![Screenshot from 2025-05-18 12-42-38](https://github.com/user-attachments/assets/35927778-cde0-4343-8941-55a2975fb4f1)
 
 
