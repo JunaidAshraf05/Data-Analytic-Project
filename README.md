@@ -25,3 +25,9 @@ A Python project to analyze and visualize your Spotify listening data using Pand
 - Jupyter Notebook
 
 ---
+
+📦spotify-stats
+┣ 📜Spotify_Analysis.ipynb
+┣ 📜StreamingHistory.json / .csv
+┣ 📜README.md
+
