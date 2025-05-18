@@ -41,3 +41,9 @@ Open the Jupyter notebook
 
 Run the cells to visualize and explore your data!
 
+----
+
+📸 Screenshots
+![Screenshot from 2025-05-18 12-42-11](https://github.com/user-attachments/assets/cfede8f6-6cbb-441e-955d-b7b38ff60b13)
+
+
