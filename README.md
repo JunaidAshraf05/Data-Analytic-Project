@@ -31,3 +31,13 @@ A Python project to analyze and visualize your Spotify listening data using Pand
 ┣ 📜StreamingHistory.json / .csv
 ┣ 📜README.md
 
+
+📂 How to Use
+Export your Spotify history (JSON or CSV format)
+
+Place the file in the project directory
+
+Open the Jupyter notebook
+
+Run the cells to visualize and explore your data!
+
